@@ -3,7 +3,7 @@
     padding: 0;
 }
 header{
-    background-color: #424E61;
+    background-color: #2F2626;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -23,7 +23,8 @@ header{
     width: 20%;
 }
 .escola{
-    background-image: -moz-linear-gradient();
+    background-image: -moz-linear-gradient(#2F2626,#CD88A1);
+    color: white;
 }
 
 
